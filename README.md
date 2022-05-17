@@ -27,6 +27,4 @@ hello I'm a full-stack developer with a focus on back-end, passionate about tech
  ### :fire: Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuPesan&layout=compact&theme=vision-friendly-dark)](https://github.com/LuPesan/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LuPesan)](https://git.io/streak-stats)
-
 
